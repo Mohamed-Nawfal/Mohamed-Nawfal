@@ -1,36 +1,161 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nawfal____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamednawfal0000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnawfal69@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Nawfal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mohamed-Nawfal &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mohamed-Nawfal &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohamed-Nawfal &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+end-to-end+ML+pipelines;From+raw+data+to+deployed+APIs;Churn+%7C+Recommenders+%7C+Forecasting;Ex-tennis+coach.+Now+coaching+models." alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohamed-Nawfal &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohamed-Nawfal &limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://www.linkedin.com/in/mohamednawfal0000"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mdnawfal69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/_nawfal____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Nawfal&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohamed-Nawfal &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
 
-<!--
-**Mohamed-Nawfal/Mohamed-Nawfal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science practitioner from **Coimbatore, India**, with an **M.Com (Computer Applications)** and an **Advanced Data Science programme (Learnbay, IBM-certified)**.
+I turn messy business data into models people can actually use, and I like shipping the full pipeline: **cleaning → modelling → evaluation → API → dashboard → Docker**.
 
-Here are some ideas to get you started:
+- 🔭 Building end-to-end ML projects with a focus on business impact
+- 🌱 Currently deepening: **Python, SQL, ML fundamentals, Docker, MLOps basics**
+- 🎓 Planning a master's in **Data Science / Analytics**
+- 🎾 ITF-certified tennis coach: discipline, patience and consistency carry over to training models
+- 📫 Reach me: **mdnawfal69@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Databases**
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" alt="langs"/>
+
+**Data & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,numpy,pandas&theme=dark" alt="ml"/>
+
+**Deployment, Tools & BI**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,vscode,jupyter&theme=dark" alt="tools"/>
+
+<p>
+<img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat-square" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/SMOTE-Imbalanced%20Data-informational?style=flat-square" alt="SMOTE"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📉 Telecom Customer Churn Prediction
+ML pipeline to predict churn, tuned for **high recall (80%)** using **SMOTE + Logistic Regression**, with a business value impact analysis.
+
+`Python` `scikit-learn` `SMOTE` `Pandas`
+
+[🔗 View Repo](https://github.com/Mohamed-Nawfal/Telecom-Customer-Churn-Prediction)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Recommendation System
+Hybrid recommender using **SVD + cosine similarity**, served through a **FastAPI** microservice for real-time inference, plus an interactive **Power BI** dashboard.
+
+`Python` `SVD` `FastAPI` `Power BI`
+
+[🔗 View Repo](https://github.com/Mohamed-Nawfal/Ecommerce-Recommendation-System-Capstone-Project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Supply Chain Demand Forecasting
+End-to-end forecasting pipeline: data engineering, model optimization and a **containerized Flask API deployed with Docker** for real-time predictions.
+
+`Python` `Forecasting` `Flask` `Docker`
+
+[🔗 View Repo](https://github.com/Mohamed-Nawfal/End-to-End-supply-chain-Demand-forecasting-with-Docker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Machine Learning Hands-On
+Notebooks where I practise core ML algorithms, feature engineering and model evaluation from scratch.
+
+`Python` `Jupyter` `scikit-learn`
+
+[🔗 View Repo](https://github.com/Mohamed-Nawfal/Machine-Learning-Hands-On)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔄 My ML Workflow
+
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[Cleaning & EDA]
+    B --> C[Feature Engineering]
+    C --> D[Model Training]
+    D --> E[Evaluation & Tuning]
+    E --> F[API: FastAPI / Flask]
+    F --> G[Docker Deploy]
+    G --> H[Dashboard / Business Insight]
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Nawfal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Nawfal&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com/?user=Mohamed-Nawfal&theme=tokyonight&hide_border=true" alt="streak"/>
+
+</div>
+
+---
+
+## 🎯 Currently Working Toward
+
+| Goal | Status |
+|---|---|
+| Strengthen Python + SQL fundamentals | 🔄 In progress |
+| Build 1 new ML project every month | 🔄 In progress |
+| Learn Docker and MLOps basics deeper | 🔄 In progress |
+| Master's in Data Science / Analytics | 🎓 Planned (Sept 2027) |
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **Data Science, Data Analyst and ML roles**, internships and collaborations.
+
+<div align="center">
+
+📧 **mdnawfal69@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mohamednawfal0000) &nbsp;|&nbsp; 📸 [Instagram](https://www.instagram.com/_nawfal____)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
