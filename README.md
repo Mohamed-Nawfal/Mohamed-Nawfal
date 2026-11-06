@@ -141,8 +141,8 @@ flowchart LR
 |---|---|
 | Strengthen Python + SQL fundamentals | 🔄 In progress |
 | Build 1 new ML project every month | 🔄 In progress |
-| Learn Docker and MLOps basics deeper | 🔄 In progress |
-| Master's in Data Science / Analytics | 🎓 Planned (Sept 2027) |
+| Learn Docker and MLOps more deeper | 🔄 In progress |
+| Master's in Data Science / Analytics | 🎓 Planned (jan 2027) |
 
 ---
 
